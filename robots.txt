@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moumenalsaadon.github.io/Home-computerservice/sitemap.xml
